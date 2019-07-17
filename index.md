@@ -192,6 +192,12 @@ Display the contact email address set in the configuration file.
   for more information.
 </p>
 
+<p>
+  <strong>Registration:</strong>
+  Please go to <a href="https://www.nmepscor.org/events/software-carpentry-workshop-nmsu">NM EPSCoR's registration page</a>. 
+  The deadline for registering is August 7. Lunch will be provided both days, so please let us know when registering about any dietary   restrictions.
+</p>
+
 <hr/>
 
 {% comment %} 
