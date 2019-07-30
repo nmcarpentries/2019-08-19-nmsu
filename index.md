@@ -7,10 +7,10 @@ address: "Room 102 Domenici Hall, 1780 E University Ave, Las Cruces, NM"      # 
 country: "US"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1#Current_codes)
 language: "EN"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes)
 latlng: "32.282887, -106.751097"       # decimal latitude and longitude of workshop venue (e.g., "41.7901128,-87.6007318" - use https://www.latlong.net/)
-humandate: "Aug 13-14, 2019"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
+humandate: "Aug 19-20, 2019"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
 humantime: "9:00 am - 5:00 pm"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
-startdate: 2019-08-13      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
-enddate: 2019-08-14        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
+startdate: 2019-08-19      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
+enddate: 2019-08-20        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
 instructor: ["Shelly Knuth", "Diana Dugas"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
 helper: [""]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["dugasdvt@ad.nmsu.edu"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
@@ -195,7 +195,7 @@ Display the contact email address set in the configuration file.
 <p>
   <strong>Registration:</strong>
   <!-- Please go to <a href="https://www.nmepscor.org/events/software-carpentry-workshop-nmsu">NM EPSCoR's registration page</a>. 
-  The deadline for registering is August 7. Lunch will be provided both days, so please let us know when registering about any dietary   restrictions.--!>
+  The deadline for registering is August 12. Lunch will be provided both days, so please let us know when registering about any dietary   restrictions.--!>
   This dates for this workshop may be moved back a week. The registration link is pending until the date is finalized. Thank you for your patience!
 </p>
 
